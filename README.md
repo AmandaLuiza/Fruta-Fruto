@@ -1,2 +1,2 @@
-# Fruta-Fruto
-Projeto com intuito de recriar uma frutas com arquitetura css
+# Fruta & Fruto
+Projeto com intuito de recriar uma página de frutas com arquitetura css
